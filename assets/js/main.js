@@ -77,6 +77,8 @@
 							.addClass('active')
 							.addClass('active-locked');
 
+					return false
+
 				})
 				.each(function() {
 
